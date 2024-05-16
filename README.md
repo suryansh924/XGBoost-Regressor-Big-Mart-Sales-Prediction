@@ -1,5 +1,7 @@
 # BigMart Sales Prediction Project using XGBoost Regressor Model
 
+Project <a href = "https://colab.research.google.com/drive/1GKipCIVODA3qhw09WnhQeJLmIkGeLCmf?usp=sharing">link</a> to collab: 
+
 ## Overview
 This project aims to predict the sales of BigMart outlets using machine learning techniques. We start by performing Exploratory Data Analysis (EDA) to understand the characteristics of the dataset. Then, we preprocess the data to prepare it for model training. Finally, we train an XGBoost regressor to predict sales and evaluate its performance.
 
